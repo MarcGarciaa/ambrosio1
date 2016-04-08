@@ -1,0 +1,4 @@
+music play
+music stop
+ligths livingroom off
+ambiligth on
